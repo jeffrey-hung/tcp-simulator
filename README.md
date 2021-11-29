@@ -24,6 +24,7 @@ o	Reordered packets
 	Bug with 
 o	Delayed packets (simplified)
 	Only allows for 1 packet to be delayed at a time (similar to re-order)
+
 Receiver:
 -	Three way handshake to establish connection
 -	Four segment connection termination
